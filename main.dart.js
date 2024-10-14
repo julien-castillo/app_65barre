@@ -38457,7 +38457,7 @@ if(a==null||a.length===0)return""
 s=A.bq("/d/([^/]+)",!0,!1).jI(a)
 if(s!=null&&s.b.length-1>0){r=s.b[1]
 r.toString
-return"https://drive.google.com/uc?id="+r}else return""}}
+return"https://drive.google.com/uc?id="+r+"&export=view"}else return""}}
 A.aj5.prototype={
 $0(){var s=J.ur(this.b,new A.aj4())
 this.a.d=A.U(s,!0,s.$ti.h("n.E"))},
