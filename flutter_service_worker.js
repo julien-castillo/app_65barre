@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "4c5b2386327a703a9d88b708b143f399",
-"assets/AssetManifest.bin.json": "e7c65445f19f1b93c858852e327d5446",
-"assets/AssetManifest.json": "db7dbf4c0d0f748bac4fafdbd8384297",
+const RESOURCES = {"assets/AssetManifest.bin": "839ee62fd68d3238de6f54ee307fc2e2",
+"assets/AssetManifest.bin.json": "5baf3fe327f31dce05a198f965031b99",
+"assets/AssetManifest.json": "5012949a8e341bde13b1411c6a18780f",
 "assets/assets/images/65barre.png": "c6069b1483cab800193bf446fcdf03e2",
 "assets/assets/images/65barre.svg": "7e1f320ab986efd22bcb0862f8d0b350",
 "assets/assets/images/65barre_2.png": "850c0edfc82533809b8b6a6f845a6390",
@@ -22,6 +22,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "4c5b2386327a703a9d88b708b143f399
 "assets/assets/images/defendintelligence.jpg": "b486af57090c24e541ffbf67c641c5ff",
 "assets/assets/images/Guillemette_Daboval.jpg": "7627bdd2d3cbc5f7ba281eafdfb3a789",
 "assets/assets/images/horn.svg": "ba1c622b0315cf76e6cb08d231d05fcb",
+"assets/assets/images/icone-65barre.png": "8d5eb3ab1c80e00758ed0edefadba5f4",
 "assets/assets/images/image.jpg": "16b3770cabac07a24b72e908ef0ec003",
 "assets/assets/images/lior.jpg": "9fe83bb6738af6179646dc5a53685389",
 "assets/assets/images/logo.svg": "21b19dd7573d3cf04fa0688045bf4e4a",
@@ -53,14 +54,14 @@ const RESOURCES = {"assets/AssetManifest.bin": "4c5b2386327a703a9d88b708b143f399
 "canvaskit/skwasm.worker.js": "89990e8c92bcb123999aa81f7e203b1c",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "flutter.js": "f393d3c16b631f36852323de8e583132",
-"flutter_bootstrap.js": "3ce5d2a26fddde0dff72448435530ba8",
+"flutter_bootstrap.js": "8daf88878904c9dbd6941a332c5100e0",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "index.html": "83c87cf2563bd7099321c0a2809e3671",
 "/": "83c87cf2563bd7099321c0a2809e3671",
-"main.dart.js": "74fa801968621617f8b1669324bb42e9",
+"main.dart.js": "47dfd0223f8e0dac117e0f804f888604",
 "manifest.json": "4d68b24ad9ab6fcfdbd02e30ab15c11e",
 "version.json": "bc8dead6f0fe868b222e6560af9dfda8"};
 // The application shell files that are downloaded before a service worker can
