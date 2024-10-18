@@ -1,6 +1,6 @@
 {
-    "name": "6/5 barré",
-    "short_name": "6/5 barré",
+    "name": "app_six_cinq_barre",
+    "short_name": "app_six_cinq_barre",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#hexcode",
