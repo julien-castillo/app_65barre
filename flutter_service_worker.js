@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "ab498cfcef561c79d97136376561dc43",
-"assets/AssetManifest.bin.json": "093206ab9f2e0cce83cdf3769c6dabba",
-"assets/AssetManifest.json": "a183b9b5a82922dcb0b10f86efcb1011",
+const RESOURCES = {"assets/AssetManifest.bin": "790d073c452e3688df9ca4f48b0337c2",
+"assets/AssetManifest.bin.json": "91771eb400dafce6dfb6c0b67c9db6ed",
+"assets/AssetManifest.json": "feae8b3ca3419487093fd6286300e79b",
 "assets/assets/images/65barre.png": "c6069b1483cab800193bf446fcdf03e2",
 "assets/assets/images/65barre.svg": "7e1f320ab986efd22bcb0862f8d0b350",
 "assets/assets/images/65barre_2.png": "850c0edfc82533809b8b6a6f845a6390",
@@ -33,11 +33,11 @@ const RESOURCES = {"assets/AssetManifest.bin": "ab498cfcef561c79d97136376561dc43
 "assets/assets/images/logo.svg": "21b19dd7573d3cf04fa0688045bf4e4a",
 "assets/assets/images/miniature.png": "f13ad2fa0ba1dabbd0c6e54b3ae03f43",
 "assets/assets/images/music-note-svgrepo-com.svg": "103417621c04842a6c3dad8f390d4651",
-"assets/assets/images/musiciens/alice_laugier.jpg": "8269f2a35c9877b84ba719afa4a88f6a",
+"assets/assets/images/musiciens/alice_laugier.png": "5705887b928e1916a06e42330e4907c1",
 "assets/assets/images/musiciens/camille_gaillard.jpg": "46319527a1250ad2069ce0440ac822e8",
 "assets/assets/images/musiciens/catherine_rochard.jpg": "4028ad4ecfc86b3a5bbbcd4c45fa54fe",
 "assets/assets/images/musiciens/cecile_roux.jpg": "295d68112ed3b8c7abd7899b8b95e58d",
-"assets/assets/images/musiciens/emilie_tain.jpg": "a5fd1e936d79048d5f4b57608d8cac3d",
+"assets/assets/images/musiciens/emilie_tain.jpg": "fb0030ec4fd8315dca27c89854d76834",
 "assets/assets/images/musiciens/florent_boyer.jpg": "a3de17fc3087291c2e1dce25b30671c3",
 "assets/assets/images/musiciens/jessica_hackett.jpg": "fd917af24dc3b5155fb4d9c4fca5fb73",
 "assets/assets/images/musiciens/julien_castillo.png": "36f881844b09c718ab39b1ca57faeb11",
@@ -67,14 +67,14 @@ const RESOURCES = {"assets/AssetManifest.bin": "ab498cfcef561c79d97136376561dc43
 "canvaskit/skwasm.worker.js": "89990e8c92bcb123999aa81f7e203b1c",
 "favicon.png": "b72f710a472950d2f92480b107ee30dc",
 "flutter.js": "f393d3c16b631f36852323de8e583132",
-"flutter_bootstrap.js": "ff8ce8dc6595a6e1b30580ef9f20d37a",
+"flutter_bootstrap.js": "2590db3e5bdafd86099388f39ed3c995",
 "icons/Icon-192.png": "cc321c189bbeff5b79ae9a0d79456830",
 "icons/Icon-512.png": "a8b6e1deacb207bbfaf671830d641edc",
 "icons/Icon-maskable-192.png": "cc321c189bbeff5b79ae9a0d79456830",
 "icons/Icon-maskable-512.png": "a8b6e1deacb207bbfaf671830d641edc",
 "index.html": "f134d7570b80088296ceeddf5c9c4af2",
 "/": "f134d7570b80088296ceeddf5c9c4af2",
-"main.dart.js": "089bca6225e079b2a065534d576e321d",
+"main.dart.js": "4af65348b9606ad27935a79bd03f693b",
 "manifest.json": "c828375886482076b73bab393a3d6914",
 "version.json": "bc8dead6f0fe868b222e6560af9dfda8"};
 // The application shell files that are downloaded before a service worker can
