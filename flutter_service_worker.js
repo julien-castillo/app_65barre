@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "af6649d21e96c6faba6ba212868dc659",
-"assets/AssetManifest.bin.json": "d556c1d33e408beda407517e59e8f6ab",
-"assets/AssetManifest.json": "9b909e7d30f24c883f8a6478292a5d53",
+const RESOURCES = {"assets/AssetManifest.bin": "2022477573b56da4b56bcb8f491d9836",
+"assets/AssetManifest.bin.json": "910ea9640e4aac5c5f064baa39791813",
+"assets/AssetManifest.json": "09746fd34469bcc71935b4e23bbcaa2c",
 "assets/assets/images/65barre.png": "c6069b1483cab800193bf446fcdf03e2",
 "assets/assets/images/65barre.svg": "7e1f320ab986efd22bcb0862f8d0b350",
 "assets/assets/images/65barre_2.png": "850c0edfc82533809b8b6a6f845a6390",
@@ -38,6 +38,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "af6649d21e96c6faba6ba212868dc659
 "assets/assets/images/musiciens/camille_gaillard.jpg": "46319527a1250ad2069ce0440ac822e8",
 "assets/assets/images/musiciens/catherine_rochard.jpg": "4028ad4ecfc86b3a5bbbcd4c45fa54fe",
 "assets/assets/images/musiciens/cecile_roux.jpg": "295d68112ed3b8c7abd7899b8b95e58d",
+"assets/assets/images/musiciens/coralie_cordroch.jpg": "078cce504796ff82d7f8f6b6bae6736c",
 "assets/assets/images/musiciens/emilie_tain.jpg": "fb0030ec4fd8315dca27c89854d76834",
 "assets/assets/images/musiciens/florent_boyer.jpg": "a3de17fc3087291c2e1dce25b30671c3",
 "assets/assets/images/musiciens/jessica_hackett.jpg": "fd917af24dc3b5155fb4d9c4fca5fb73",
@@ -52,7 +53,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "af6649d21e96c6faba6ba212868dc659
 "assets/assets/images/treble_clef_1.svg": "916d45a2a811662313bbe5657c247aeb",
 "assets/assets/images/zeimusu_treble_clefs_4.svg": "15dec123238f51cbe7978c16223978c6",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
-"assets/fonts/MaterialIcons-Regular.otf": "42ffa1fa1205d272b59c11c64e31ed7d",
+"assets/fonts/MaterialIcons-Regular.otf": "80362672e09e90db771cd4903a9e8a9f",
 "assets/NOTICES": "43c7efc622941c65ad9211ebc2ecd400",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "e986ebe42ef785b27164c36a9abc7818",
 "assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
@@ -68,14 +69,14 @@ const RESOURCES = {"assets/AssetManifest.bin": "af6649d21e96c6faba6ba212868dc659
 "canvaskit/skwasm.worker.js": "89990e8c92bcb123999aa81f7e203b1c",
 "favicon.png": "b72f710a472950d2f92480b107ee30dc",
 "flutter.js": "f393d3c16b631f36852323de8e583132",
-"flutter_bootstrap.js": "c4ca1b71c460398e0e6538ddba6b3084",
+"flutter_bootstrap.js": "99c75db9cdf3c0e4b2776802399226a7",
 "icons/Icon-192.png": "cc321c189bbeff5b79ae9a0d79456830",
 "icons/Icon-512.png": "a8b6e1deacb207bbfaf671830d641edc",
 "icons/Icon-maskable-192.png": "cc321c189bbeff5b79ae9a0d79456830",
 "icons/Icon-maskable-512.png": "a8b6e1deacb207bbfaf671830d641edc",
 "index.html": "f134d7570b80088296ceeddf5c9c4af2",
 "/": "f134d7570b80088296ceeddf5c9c4af2",
-"main.dart.js": "0c21b70683b73b9ac39119b91b800f71",
+"main.dart.js": "c386b1d3cb8ac61fbb2b916840044c38",
 "manifest.json": "c828375886482076b73bab393a3d6914",
 "version.json": "bc8dead6f0fe868b222e6560af9dfda8"};
 // The application shell files that are downloaded before a service worker can
