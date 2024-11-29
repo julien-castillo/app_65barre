@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "2022477573b56da4b56bcb8f491d9836",
-"assets/AssetManifest.bin.json": "910ea9640e4aac5c5f064baa39791813",
-"assets/AssetManifest.json": "09746fd34469bcc71935b4e23bbcaa2c",
+const RESOURCES = {"assets/AssetManifest.bin": "63fb0e53c930cbe3b89aed8abce74f07",
+"assets/AssetManifest.bin.json": "667951a14e842d7ffefb83fd3a9f47d8",
+"assets/AssetManifest.json": "a94e4f01b083494695a2b8d9d084edd5",
 "assets/assets/images/65barre.png": "c6069b1483cab800193bf446fcdf03e2",
 "assets/assets/images/65barre.svg": "7e1f320ab986efd22bcb0862f8d0b350",
 "assets/assets/images/65barre_2.png": "850c0edfc82533809b8b6a6f845a6390",
@@ -40,6 +40,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "2022477573b56da4b56bcb8f491d9836
 "assets/assets/images/musiciens/cecile_roux.jpg": "295d68112ed3b8c7abd7899b8b95e58d",
 "assets/assets/images/musiciens/coralie_cordroch.jpg": "078cce504796ff82d7f8f6b6bae6736c",
 "assets/assets/images/musiciens/emilie_tain.jpg": "fb0030ec4fd8315dca27c89854d76834",
+"assets/assets/images/musiciens/fabienne_bertin.jpg": "307dfb10f0033132d290d1dba9769c52",
 "assets/assets/images/musiciens/florent_boyer.jpg": "a3de17fc3087291c2e1dce25b30671c3",
 "assets/assets/images/musiciens/jessica_hackett.jpg": "fd917af24dc3b5155fb4d9c4fca5fb73",
 "assets/assets/images/musiciens/julien_castillo.png": "36f881844b09c718ab39b1ca57faeb11",
@@ -69,14 +70,14 @@ const RESOURCES = {"assets/AssetManifest.bin": "2022477573b56da4b56bcb8f491d9836
 "canvaskit/skwasm.worker.js": "89990e8c92bcb123999aa81f7e203b1c",
 "favicon.png": "b72f710a472950d2f92480b107ee30dc",
 "flutter.js": "f393d3c16b631f36852323de8e583132",
-"flutter_bootstrap.js": "99c75db9cdf3c0e4b2776802399226a7",
+"flutter_bootstrap.js": "83a7b8df4db20bfbc83342e0082c61e1",
 "icons/Icon-192.png": "cc321c189bbeff5b79ae9a0d79456830",
 "icons/Icon-512.png": "a8b6e1deacb207bbfaf671830d641edc",
 "icons/Icon-maskable-192.png": "cc321c189bbeff5b79ae9a0d79456830",
 "icons/Icon-maskable-512.png": "a8b6e1deacb207bbfaf671830d641edc",
 "index.html": "f134d7570b80088296ceeddf5c9c4af2",
 "/": "f134d7570b80088296ceeddf5c9c4af2",
-"main.dart.js": "c386b1d3cb8ac61fbb2b916840044c38",
+"main.dart.js": "784801f093e88bb521b0d80bcff5013d",
 "manifest.json": "c828375886482076b73bab393a3d6914",
 "version.json": "bc8dead6f0fe868b222e6560af9dfda8"};
 // The application shell files that are downloaded before a service worker can
