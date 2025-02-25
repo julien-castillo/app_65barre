@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "fa24be3e949a1f17b3f096b16a89a568",
-"assets/AssetManifest.bin.json": "a96b14f0b901bf64add334a2a7bab425",
-"assets/AssetManifest.json": "e480dd1235f964e9b4f4039e3872d330",
+const RESOURCES = {"assets/AssetManifest.bin": "54e615a4babac432cde439f29204736c",
+"assets/AssetManifest.bin.json": "d66e6410c377ab731439be36d428dd64",
+"assets/AssetManifest.json": "ff847a17dcbdad4d9530bad79b2a715b",
 "assets/assets/images/65barre.png": "c6069b1483cab800193bf446fcdf03e2",
 "assets/assets/images/65barre.svg": "7e1f320ab986efd22bcb0862f8d0b350",
 "assets/assets/images/65barre_2.png": "850c0edfc82533809b8b6a6f845a6390",
@@ -43,7 +43,8 @@ const RESOURCES = {"assets/AssetManifest.bin": "fa24be3e949a1f17b3f096b16a89a568
 "assets/assets/images/musiciens/emilie_tain.jpg": "fb0030ec4fd8315dca27c89854d76834",
 "assets/assets/images/musiciens/fabienne_bertin.jpg": "307dfb10f0033132d290d1dba9769c52",
 "assets/assets/images/musiciens/fanny_constant.jpg": "58e1d985d260b887718263b6449f8aa5",
-"assets/assets/images/musiciens/florent_boyer.jpg": "a3de17fc3087291c2e1dce25b30671c3",
+"assets/assets/images/musiciens/florent_boyer.jpg": "962b3bb49ca37e3fb3c1a1dbe6b9db21",
+"assets/assets/images/musiciens/florent_boyer_1.jpg": "a3de17fc3087291c2e1dce25b30671c3",
 "assets/assets/images/musiciens/jessica_hackett.jpg": "fd917af24dc3b5155fb4d9c4fca5fb73",
 "assets/assets/images/musiciens/julien_castillo.png": "36f881844b09c718ab39b1ca57faeb11",
 "assets/assets/images/musiciens/lison_grappe.jpg": "5e757f5605a5dc8feff5f7cc5ae1a705",
@@ -75,7 +76,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "fa24be3e949a1f17b3f096b16a89a568
 "canvaskit/skwasm.worker.js": "89990e8c92bcb123999aa81f7e203b1c",
 "favicon.png": "b72f710a472950d2f92480b107ee30dc",
 "flutter.js": "f393d3c16b631f36852323de8e583132",
-"flutter_bootstrap.js": "a6c6663e5f4f92eedb02fce8dc98e137",
+"flutter_bootstrap.js": "a9be0f2c8f9c637368efae670398099c",
 "icons/Icon-192.png": "cc321c189bbeff5b79ae9a0d79456830",
 "icons/Icon-512.png": "a8b6e1deacb207bbfaf671830d641edc",
 "icons/Icon-maskable-192.png": "cc321c189bbeff5b79ae9a0d79456830",
